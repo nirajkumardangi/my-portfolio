@@ -86,11 +86,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For inquiries, feedback, or collaboration opportunities, you can reach me at:  
-- **Email**: (mailto:niraj8825334435@gmail.com)  
+- **Email**: (niraj8825334435@gmail.com)
 - **LinkedIn**: (https://www.linkedin.com/in/nirajkumardangi)  
 - **Portfolio**: (#)
 
 ---
 
 *Thank you for checking out my portfolio project! I hope it inspires you to create your own.*
-```
